@@ -1,4 +1,12 @@
-# QUANT-LEARNING
-It is my first repository. A First step towards my quant learning. This would include my works and projects on different topics. This will also showcast my skills and interests towards quant and finance.
+# Quant & Algo Trading Projects
+
+This repo will contain my work in:
+- Python
+- Trading strategy backtesting
+- Financial data analysis
+- Market research
+
+More coming soon.
+
 <br>
 Author-Piyush Kumar(JSS)
